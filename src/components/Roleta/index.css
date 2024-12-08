@@ -1,0 +1,11 @@
+.roleta {
+    display: flex;
+    flex-direction: row;
+}
+
+.roleta>h1 {
+    width: 50px;
+    border: 1px solid;
+    border-radius: 10px;
+    margin-right: 5px;
+}

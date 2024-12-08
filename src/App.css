@@ -1,0 +1,40 @@
+body {
+  /* background-image: url(./assets/fundo.jpg); */
+  background-size: cover;
+  background-position: center;
+}
+
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.card {
+  padding: 2em;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.read-the-docs {
+  color: #888;
+}
+
+.roleta {
+  display: flex;
+  flex-direction: row;
+}
+
+.slot {
+  width: 50px;
+  border: 1px solid;
+  border-radius:  10px;
+  margin-right: 5px;
+}
+
+.obs {
+  color: #888;
+}
+
