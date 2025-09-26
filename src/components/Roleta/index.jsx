@@ -9,7 +9,7 @@ export default function Roleta({ saldo, setSaldo }) {
     const [n4, setN4] = useState(0)
     const [valorAposta, setValorAposta] = useState(10)
 
-    const percertagemDeSorte = 50;
+    const percertagemDeSorte = 2;
     // const valorAposta = 10;
     const multiplicadorGanho = 10;
 
